@@ -32,4 +32,4 @@ jobs:
 
       - name: Run flake8 (lint check)
         run: |
-          flake8 ci_practice.py  # Make sure this filename is correct
+          flake8 ci_pracice.py  
