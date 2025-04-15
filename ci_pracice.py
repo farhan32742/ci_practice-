@@ -12,3 +12,6 @@ def subtraction():
     c = a - b
     print("The difference of", a, "and", b, "is:", c)
     return c
+
+
+
